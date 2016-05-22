@@ -1,0 +1,16 @@
+[package]
+authors = ["Jimmy Cuadra <jimmy@jimmycuadra.com>"]
+description = "Validations for arbitrary types."
+documentation = "http://ruma.github.io/jimmycuadra/validations"
+homepage = "https://github.com/jimmycuadra/validations"
+keywords = ["validation", "validations"]
+license = "MIT"
+name = "validations"
+readme = "README.md"
+repository = "https://github.com/jimmycuadra/validations"
+version = "0.1.0"
+
+[dependencies]
+
+[lib]
+doctest = false
